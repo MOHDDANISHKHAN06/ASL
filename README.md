@@ -40,16 +40,24 @@ Detailed features of hand and finger movements were extracted, including palm da
 
 The goal was to evaluate the effectiveness of machine learning models, including SVM, Random Forests, and DNNs, in predicting ASL gestures. Our models achieved impressive accuracies, demonstrating the potential of this technology in enhancing communication accessibility.
 
-## Results
-SVM and Random Forest 
-<img width="271" alt="image" src="https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/b75c2c7c-5322-4242-b28d-d9c520793440">
-<img width="271" alt="image" src="https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/50a9c191-0374-4cd5-aa1b-f4b553fe25d2">
-<img width="572" alt="image" src="https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/3422bd1b-1eb2-4d39-b553-11bf0a225be6">
+# ASL Recognition Results
 
+This section showcases the results of applying different machine learning models, including SVM (Support Vector Machine), Random Forest, and DNN (Deep Neural Network), on the ASL (American Sign Language) recognition task.
 
-DNN 
-<img width="306" alt="image" src="https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/f5b565e4-9a93-4071-b0c0-8cb4d1a343d3">
-<img width="572" alt="image" src="https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/5fbea9fe-31e8-4885-8a1c-40ecc434b473">
+## SVM and Random Forest Results
+
+![SVM and Random Forest Result 1](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/b75c2c7c-5322-4242-b28d-d9c520793440)
+
+![SVM and Random Forest Result 2](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/50a9c191-0374-4cd5-aa1b-f4b553fe25d2)
+
+![SVM and Random Forest Combined](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/3422bd1b-1eb2-4d39-b553-11bf0a225be6)
+
+## DNN Results
+
+![DNN Result 1](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/f5b565e4-9a93-4071-b0c0-8cb4d1a343d3)
+
+![DNN Combined Results](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/5fbea9fe-31e8-4885-8a1c-40ecc434b473)
+
 
 
 ## Future Directions
