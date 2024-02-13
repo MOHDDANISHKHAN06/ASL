@@ -1,5 +1,5 @@
 # ASL Gesture Recognition with Leap Motion and Unity
-![Uploading collage.jpg…]()
+![collage](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/68fbe285-0d28-41da-8532-31e3a6f63d36)
 
 ## Project Overview
 
