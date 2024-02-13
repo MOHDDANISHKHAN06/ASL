@@ -1,33 +1,3 @@
-# ASLHandDetection
-## Multiple Classifiers that detect the hand orientation and predict the sign shown, in Americal Sign Language.
-
-The repository consists of 4 different classifiers- 
-* Convolutional Neural Networks (CNN)
-* Random Forest
-* Decision Tree
-* SVM
-
-In Random Forest, 3 separate decision trees are being used. 
-In SVM, the kernels are set as linear, and rbf, in 2 separate models. 
-
-Running the main function will show the result for all the classifiers. 
-
-The data set being used is a json, which projects details such as the finger postions, hand position, orientation [using quaternions], hand direction (front or back) etc. 
-We are extracting the following features - 
-
-1. Angle between each fingers
-2. The positions of the fingers
-3. Converting quaternions to Euler's notation
-4. Hand Direction
-
-The accuracy, after running these classifiers, are as follows- 
-* Accuracy- CNN: ~0.85
-* Accuracy- Decision tree: 0.98
-* Accuracy- SVM(RBF) : 0.86
-* Accuracy- SVM(LINEAR) : 0.96
-* Accuracy- Random Forest: 0.94
-
-
 # ASL Gesture Recognition with Leap Motion and Unity
 
 ## Project Overview
@@ -56,6 +26,8 @@ A versatile platform for game development and interactive content creation, prov
 
 - **Participants:** 10 volunteers from our university, comprising an equal mix of males and females.
 - **Procedure:** Participants performed ASL gestures, which were captured using the Leap Motion Controller and visualized in Unity. Data was stored in JSON format alongside synthetic images for training machine learning models.
+![WhatsApp Image 2023-10-24 at 9 46 29 PM](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/737011ad-9bfd-4abe-8272-652a0faf002c)
+![WhatsApp_Image_2023-10-26_at_8 24 16_PM-removebg-preview](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/159f442e-8e8d-45f6-bce2-23d18397f285)
 
 ### Feature Extraction
 
@@ -70,6 +42,3 @@ The goal was to evaluate the effectiveness of machine learning models, including
 While focused on static gestures, this groundwork facilitates further exploration into dynamic gesture recognition, broadening the application scope of ASL recognition technologies.
 
 ---
-
-For more information, contributions, or inquiries, please contact [Author Name](mailto:e-mail@e-mail.com).
-
