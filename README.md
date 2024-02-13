@@ -26,8 +26,9 @@ A versatile platform for game development and interactive content creation, prov
 
 - **Participants:** 10 volunteers from our university, comprising an equal mix of males and females.
 - **Procedure:** Participants performed ASL gestures, which were captured using the Leap Motion Controller and visualized in Unity. Data was stored in JSON format alongside synthetic images for training machine learning models.
-![WhatsApp Image 2023-10-24 at 9 46 29 PM](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/737011ad-9bfd-4abe-8272-652a0faf002c)
 ![WhatsApp_Image_2023-10-26_at_8 24 16_PM-removebg-preview](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/159f442e-8e8d-45f6-bce2-23d18397f285)
+![WhatsApp Image 2023-10-24 at 9 46 29 PM](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/6874530d-6b97-41c0-a2e0-1debf8aab9c8)
+
 
 ### Feature Extraction
 
