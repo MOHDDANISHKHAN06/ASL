@@ -1,4 +1,5 @@
 # ASL Gesture Recognition with Leap Motion and Unity
+![Uploading collage.jpg…]()
 
 ## Project Overview
 
