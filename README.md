@@ -65,10 +65,6 @@ Detailed features of hand and finger movements were extracted, including palm da
 
 The goal was to evaluate the effectiveness of machine learning models, including SVM, Random Forests, and DNNs, in predicting ASL gestures. Our models achieved impressive accuracies, demonstrating the potential of this technology in enhancing communication accessibility.
 
-## Contributions
-
-This project offers a comprehensive LMC dataset of ASL gestures, a 3D reconstruction of these gestures using Unity, and insights into the predictive accuracies of various machine learning models. It underscores the Leap Motion Controller's versatility and potential applications in HCI, particularly for the deaf and hard of hearing.
-
 ## Future Directions
 
 While focused on static gestures, this groundwork facilitates further exploration into dynamic gesture recognition, broadening the application scope of ASL recognition technologies.
