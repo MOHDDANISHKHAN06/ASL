@@ -26,3 +26,4 @@ The accuracy, after running these classifiers, are as follows-
 * Accuracy- SVM(RBF) : 0.86
 * Accuracy- SVM(LINEAR) : 0.96
 * Accuracy- Random Forest: 0.94
+![output](https://github.com/MOHDDANISHKHAN06/ASL/assets/47732298/c69c157d-766d-4257-afef-a529700a2bcf)
